@@ -31,3 +31,4 @@ O array deve ser salvo em um arquivo com o nome "produtos.php", dentro da pasta 
     + header.php
     + footer.php
   + index.php
+##### Observação: Para esta atividade não utilizaremos a pasta includes do nosso projeto geral, vamos criar uma pasta includes dentro da pasta deste projeto.
